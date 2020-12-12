@@ -231,3 +231,7 @@ div.form div.botones label{
   color: rgb(68, 68, 68);
   font-weight: 500;
 }
+div.form div.botones button{
+  width: 150px;
+  
+}
